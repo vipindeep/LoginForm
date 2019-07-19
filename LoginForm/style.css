@@ -1,0 +1,32 @@
+body{
+	background-image: url(robustcoders.jpg);
+	background-size: cover;
+}
+#login-name{
+	font-size: 60px;
+	font-family: Arabic typesetting;
+	border-bottom-style: ridge;
+	color: white; 
+}
+#login{
+	background-color: #0d0d0d;
+	min-height: 400px;
+	margin-left: 280px;
+	opacity: 0.6;
+	padding: 40px 80px 40px 80px;
+	box-shadow: -10px -10px 9px #33cc33; 
+
+}
+.user{
+	font-family: Arabic typesetting;
+	font-size: 29px;
+	color: white;
+
+}
+.btn{
+	width: 50%;
+	float: left;
+	border-radius:;
+	height: 40px;
+	font-size: 17px;	
+}
